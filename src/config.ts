@@ -6,9 +6,10 @@ export const release = {
   fileSize: "122 MB",
   releaseDate: "2026-05-06",
   downloadUrl:
-    "https://github.com/OWNER/REPO/releases/latest/download/CDL-Maroc-Paie-Setup.exe",
-  releaseNotesUrl: "https://github.com/OWNER/REPO/releases/latest",
-  githubUrl: "https://github.com/OWNER/REPO",
+    "https://github.com/houssam-lemrini/cdl-maroc-website/releases/download/app/CDL-Maroc-Paie-Setup.exe",
+  releaseNotesUrl:
+    "https://github.com/houssam-lemrini/cdl-maroc-website/releases/tag/app",
+  githubUrl: "https://github.com/houssam-lemrini/cdl-maroc-website",
   contactEmail: "houssamlemrini4@gmail.com",
   founder: {
     name: "Houssam Lemrini",
