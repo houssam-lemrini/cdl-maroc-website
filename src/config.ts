@@ -2,13 +2,13 @@ import logoUrl from "./assets/cdl-maroc-logo.png";
 
 export const release = {
   logoUrl,
-  version: "v1.0.0",
+  version: "v1.0.1",
   fileSize: "117 MB",
-  releaseDate: "2026-05-06",
+  releaseDate: "2026-05-07",
   downloadUrl:
     "https://github.com/houssam-lemrini/cdl-maroc-website/releases/latest/download/CDL-Maroc-Paie-Setup.exe",
   releaseNotesUrl:
-    "https://github.com/houssam-lemrini/cdl-maroc-website/releases/tag/v1.0.0",
+    "https://github.com/houssam-lemrini/cdl-maroc-website/releases/tag/v1.0.1",
   githubUrl: "https://github.com/houssam-lemrini/cdl-maroc-website",
   contactEmail: "houssamlemrini4@gmail.com",
   founder: {
