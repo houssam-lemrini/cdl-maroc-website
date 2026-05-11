@@ -132,8 +132,8 @@ const partnerCompanies = [
     stat: "50 ha",
     statLabel: "Morocco plant site",
     photo:
-      "https://aeolon.com.cn/home/1/4/cnd6er/resource/2023/11/21/655c68401c5da.jpg",
-    photoAlt: "Aeolon Renewable Energy Morocco project meeting",
+      "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1200&q=80",
+    photoAlt: "Wind turbines representing Aeolon Renewable Energy Morocco",
     accent: "from-emerald-300/24 via-cyan-300/16 to-white/8",
     tags: ["Renewable", "Nador", "Blades"],
   },
