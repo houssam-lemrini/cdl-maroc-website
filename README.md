@@ -29,11 +29,13 @@ Edit `src/config.ts`:
 
 ```ts
 export const release = {
-  downloadUrl: "https://github.com/OWNER/REPO/releases/latest/download/CDL-Maroc-Paie-Setup.exe",
+  version: "v3.0.0",
+  downloadUrl:
+    "https://github.com/houssam-lemrini/cdl-maroc-website/releases/download/v3.0.0/CDL-Maroc.Paie.Setup.3.0.0.exe",
 };
 ```
 
-When the real GitHub Release is ready, replace the placeholder with the final installer URL.
+When a new GitHub Release is ready, update the version, file size, release date, download URL, and release notes URL in `src/config.ts`.
 
 ## Cloudflare Pages
 
