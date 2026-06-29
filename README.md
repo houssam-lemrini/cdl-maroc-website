@@ -29,9 +29,9 @@ Edit `src/config.ts`:
 
 ```ts
 export const release = {
-  version: "v3.0.0",
+  version: "v4.0.0",
   downloadUrl:
-    "https://github.com/houssam-lemrini/cdl-maroc-website/releases/download/v3.0.0/CDL-Maroc.Paie.Setup.3.0.0.exe",
+    "https://github.com/houssam-lemrini/cdl-maroc-website/releases/download/v4.0.0/CDL-Maroc.Paie.Setup.1.0.0.exe",
 };
 ```
 
